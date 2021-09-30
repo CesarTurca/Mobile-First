@@ -29,6 +29,8 @@ html {
     font-family: 'DM Sans', sans-serif;
 }
 
+/* HEADER */
+
 header {
     position: relative;
     display: flex;
@@ -100,3 +102,5 @@ header img {
     margin-left: 10px;
     background-image: url('./assets/iconos/down-arrow.svg');
 }
+
+/* HEADER */
