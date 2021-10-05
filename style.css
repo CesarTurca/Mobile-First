@@ -577,7 +577,7 @@ main {
     font-size: 1.4rem;
     font-weight: bold;
     line-height: 1.8rem;
-    color: car(--warm-black-1);
+    color: var(--warm-black-1);
 }
 
 .plan-card--ca-2 span {
@@ -611,7 +611,7 @@ main {
     font-size: 1.2rem;
     background-color: var(--bitcoin-orange);
     border-radius: 8px;
-    border: 1px solid var(--warm-black-1);
+    border: 1px solid var(--bitcoin-orange);
     box-shadow: 0 4px 8px rgba(89, 73, 30, 0.16);
     color: var(--warm-black-1);
 }
@@ -637,7 +637,7 @@ main {
     font-weight: 300;
 }
 
-.plan.card--saving-3 {
+.plan-card--saving-3 {
     font-size: 1.2rem;
     color: var(--just-white);
 }
